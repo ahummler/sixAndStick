@@ -1,0 +1,6 @@
+div.class {   }
+body {background-color: purple;}
+img {position: relative; display: block; margin: 0 auto; }
+div.poem { position: absolute; top: 50px;  left: 450px; text-align: center;}
+h5 {color: white; /*color: #48a9a6;*/font-size: 18px;}
+h2 {color: white;/*color: #39ff14;*/}
