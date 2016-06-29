@@ -49,10 +49,13 @@ background-size:100px 100px;
 img {position: relative; display: block; margin: 0 auto; height: 420px; }
 div.poem { position: absolute; top: 5px; left: 45px; text-align: center;}	
 h2 /*{ color: #160078;}*/{
-  font-size: 5px;
+  font-size: 20px;
   background: -webkit-linear-gradient(purple,red, pink, white);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   text-decoration: underline;
-}	
+}
+h5 {/*color: pink;*/  background: -webkit-linear-gradient(purple,red, pink, gold);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; font-size: 18px; }	
 }
