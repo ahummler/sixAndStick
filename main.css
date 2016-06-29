@@ -46,7 +46,7 @@ background-size:100px 100px;
 		max-width:480px;
 		background-color: green;
 }
-img {position: relative; display: block; margin: 0 auto; height: 420px; }
+img {position: relative; display: block; margin: 0 auto; height: 555px; }
 div.poem { position: absolute; top: 5px; left: 45px; text-align: center;}	
 h2 /*{ color: #160078;}*/{
   font-size: 20px;
