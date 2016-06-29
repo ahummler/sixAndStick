@@ -34,7 +34,7 @@ background-size:100px 100px;
 @media only screen and (min-width:481px) and (max-width: 780px){
 	body {background-color: purple;
 	}
-	img {position: relative; display: block; margin: 0 auto; }
+	img {position: relative; display: block; margin: 0 auto; height: 110px; }
 	div.poem { position: absolute; top: 10px; left: 90px; text-align: center;}
 	h5 {/*color: pink;*/  background: -webkit-linear-gradient(purple,red, pink, gold);
   -webkit-background-clip: text;
@@ -46,6 +46,6 @@ background-size:100px 100px;
 		max-width:480px;
 		background-color: green;
 }
-img {position: relative; display: block; margin: 0 auto; }
+img {position: relative; display: block; margin: 0 auto; height: 55px; }
 div.poem { position: absolute; top: 5px; left: 45px; text-align: center;}		
 }
