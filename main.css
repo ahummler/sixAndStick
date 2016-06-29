@@ -6,7 +6,7 @@ img {position: relative; display: block; margin: 0 auto; }
 div.poem { position: absolute; top: 50px;  left: 450px; text-align: center;}
 h5 {/*color: pink;*/  background: -webkit-linear-gradient(purple,red, pink, gold);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent; font-size: 18px; line-height: 237%;}
+  -webkit-text-fill-color: transparent; font-size: 18px; }
 h2 /*{ color: #160078;}*/{
   font-size: 20px;
   background: -webkit-linear-gradient(purple,red, pink, white);
@@ -14,7 +14,7 @@ h2 /*{ color: #160078;}*/{
   -webkit-text-fill-color: transparent;
   text-decoration: underline;
 }
- img {height: 555px;}
+ img { width: 56%; height: 555px;}
  body {background: 
 radial-gradient(circle closest-side at 60% 43%, #b03 26%, rgba(187,0,51,0) 27%),
 radial-gradient(circle closest-side at 40% 43%, #b03 26%, rgba(187,0,51,0) 27%),
@@ -47,5 +47,12 @@ background-size:100px 100px;
 		background-color: green;
 }
 img {position: relative; display: block; margin: 0 auto; height: 420px; }
-div.poem { position: absolute; top: 5px; left: 45px; text-align: center;}		
+div.poem { position: absolute; top: 5px; left: 45px; text-align: center;}	
+h2 /*{ color: #160078;}*/{
+  font-size: 5px;
+  background: -webkit-linear-gradient(purple,red, pink, white);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-decoration: underline;
+}	
 }
